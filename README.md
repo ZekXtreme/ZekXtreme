@@ -1,1 +1,13 @@
-![Metrics](https://metrics.lecoq.io/zekxtreme?template=classic&languages=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=all&notable.repositories=false&notable.indepth=true&notable.types=commit&repositories.featured=akshettrj%2FAccess-Bot&config.timezone=Asia%2FKathmandu)
+<h1 align="center">Hi 👋, I'm Zek</h1>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zekxtreme&show_icons=true&count_private=true&theme=radical">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekxtreme&theme=tokyonight&layout=compact&langs_count=5">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshettrj&repo=Access-Bot&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spamverse&repo=piratezparty&theme=tokyonight">
+  </div>
+  
+
