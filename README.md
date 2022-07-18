@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zek</h1>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zekxtreme&show_icons=true&count_private=true&theme=radical">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekxtreme&theme=tokyonight&layout=compact&langs_count=5">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akshettrj&repo=Access-Bot&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spamverse&repo=piratezparty&theme=tokyonight">
-  </div>
-  
 
+[![](https://raw.githubusercontent.com/ZekXtreme/zekxtreme/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZekXtreme/zekxtreme/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ZekXtreme/zekxtreme/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZekXtreme/zekxtreme/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
