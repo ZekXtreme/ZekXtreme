@@ -19,3 +19,16 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          
+      - name: generate-github-profile-3d-contrib
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name "Github Actions"
+          git config user.email action@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
